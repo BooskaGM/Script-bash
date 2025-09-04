@@ -1,3 +1,2 @@
-# Bash-Script
+# Script-Bash
 Petit script Bash de maintenance macOS
-# Ma premiere modif 
